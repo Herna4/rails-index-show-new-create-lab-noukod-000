@@ -14,7 +14,7 @@ describe CouponsController do
   #       post :create, { :coupon => { :coupon_code => "ASD123", :store => "Dean and Deluca" } }
   #       expect(response).to redirect_to Coupon.last
   #     end
-  #   end
+    end
   end
 
 end
